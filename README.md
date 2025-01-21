@@ -2,7 +2,7 @@
 lesson 1
 
 # Presintation About README, Git, and GitHub: A Developer's Guide
-![git and github](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biteinteractive.com%2Fof-git-and-github-master-and-main%2F&psig=AOvVaw3TmIUhbH2rX9B7wnVffmVs&ust=1737535506597000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDMr6m2hosDFQAAAAAdAAAAABAE)
+![git and github](https://www.biteinteractive.com/wp-content/uploads/2021/05/git-vs-github.png)
 
 1. What a README file is.
 2. The basics of Git.
