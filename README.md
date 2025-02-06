@@ -1,4 +1,4 @@
-# Git-l1  
+![image](https://github.com/user-attachments/assets/d7d23cb8-c189-4f15-9a4c-e08c2c0fd1fb)![image](https://github.com/user-attachments/assets/29f6e25e-4db0-4e22-aa93-af200f55f680)# Git-l1  
 Lesson 1
 
 # Презентация дар бораи JS
@@ -45,13 +45,13 @@ JavaScript ҳамчун "забони веб" маъруф аст, зеро он
 *JavaScript метавонад маълумотро бе навсозии саҳифа аз сервер гиранд (AJAX, Fetch API).*
 **7. Чаҳорчӯбаҳо ва китобхонаҳо**
 *Барои осон кардани рушди вебсайтҳо, бисёр framework ва library-ҳои JavaScript мавҷуданд:
-✅ Front-end: React, Angular, Vue.js
-✅ Back-end: Node.js, Express.js
-✅ Аниматсия: GSAP, Three.js*
+Front-end: React, Angular, Vue.js
+Back-end: Node.js, Express.js
+Аниматсия: GSAP, Three.js*
 
 ## 2. Синтаксиси асосии JavaScript
 
-![readme file]([https://i.ytimg.com/vi/yPHhZxYPwUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAj46DWfghhUmYi8kdSPkVMpLczjg](https://fadagogo.com/coding_with_JavaScript/image/fonctions_1.png))
+![readme file]([[https://i.ytimg.com/vi/yPHhZxYPwUY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAj46DWfghhUmYi8kdSPkVMpLczjg](https://fadagogo.com/coding_with_JavaScript/image/fonctions_1.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cssscript.com%2Fsyntax-highlighter-javascript-snippets%2F&psig=AOvVaw2m5ILxDrButOW7mHhtkXl-&ust=1738919804518000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCgp53brosDFQAAAAAdAAAAABAJ))
 
 **1. Чӣ гуна коди JavaScript навишта мешавад?**  
 *JavaScript метавонад дар дохили HTML ё дар файли алоҳидаи .js навишта шавад.
@@ -108,7 +108,7 @@ if (age >= 18) {
 
 # Вариантҳо (Variables) ва намуди маълумотҳо
 
-![Git]([https://ositcom.com/static/images/images/git-blog-header_1.png](https://media2.dev.to/dynamic/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1tbvb84dqy2rqfap0b69.jpeg))
+![Git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fcleveroscar%2Fjavascript-variable-assignments-1275&psig=AOvVaw11kD1_Wlt6wlike_C4qmaB&ust=1738920486628000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCXv-zdrosDFQAAAAAdAAAAABAJ)
 
 ***1. Чӣ аст Git?***  
 ***2. Хусусиятҳои асосии Git***  
