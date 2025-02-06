@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29f6e25e-4db0-4e22-aa93-af200f55f680)
+![image](https://slideplayer.com/7316881/24/images/slide_1.jpg)
 
 # Презентация дар бораи JS
 
