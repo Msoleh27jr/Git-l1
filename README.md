@@ -116,7 +116,7 @@ if (age >= 18) {
 ***1. Чӣ гуна тағирёбандаҳо эълон мешаванд?***
 *Барои эълон кардани тағирёбандаҳо, мо метавонем var, let, ва const-ро истифода барем.
 var-let-const*
-```
+```JavaScript
 var name = "Алишер"; // Эълони кӯҳна (на он қадар тавсия дода мешавад)
 let age = 25; // Тағирёбанда бо қимати тағйирёбанда
 const country = "Точикистон"; // Қимат тағйир намешавад
@@ -128,7 +128,7 @@ console.log(name, age, country);
 *Дар JavaScript ду намуди асосии маълумот вуҷуд дорад:
 1.Маълумоти ибтидоӣ (Primitive Types)
 2.Маълумоти мураккаб (Reference Types)*
-```
+```JavaScript
 let text = "JavaScript"; // String
 let number = 42; // Number
 let isLearning = true; // Boolean
@@ -142,7 +142,7 @@ console.log(text, number, isLearning, notDefined, emptyValue, bigNumber, uniqueI
 
 ***3. Тағйир додани қиматҳо (Type Conversion)***
 *Мо метавонем намудҳои маълумотро ба ҳамдигар табдил диҳем.*
-```
+```JavaScript
 console.log(Boolean(0)); // false
 console.log(Boolean(1)); // true
 console.log(Boolean("")); // false
@@ -151,7 +151,7 @@ console.log(Boolean("JavaScript")); // true
 
 ***4. Намуди маълумотро санҷидан (Type Checking)***
 *Барои санҷидани намуди маълумот, мо метавонем typeof-ро истифода барем.*
-```
+```JavaScript
 console.log(typeof "Hello"); // String
 console.log(typeof 25); // Number
 console.log(typeof true); // Boolean
@@ -168,7 +168,7 @@ console.log(typeof function() {}); // Function
 
 ***1. Чӣ гуна функсия эҷод ва истифода мешавад?***
 *Барои сохтани функсия, мо калидвожаи function-ро истифода мебарем.*
-```
+```JavaScript
 function functionName(parameters) {
     return value; // (ихтиёрӣ)
 }
@@ -176,7 +176,7 @@ function functionName(parameters) {
 
 ***2. Функсия бо параметрҳо (Parameters)***
 *Параметрҳо ба функсия маълумот мефиристанд.*
-```
+```JavaScript
 function sayHello(name) {
     console.log("Салом, " + name + "!");
 }
@@ -196,7 +196,7 @@ console.log(sum); // 15
 
 ***4. Функсияҳои анонимӣ (Anonymous Functions)***
 *Функсия бидуни ном метавонад дар тағйирёбанда нигоҳ дошта шавад.*
-```
+```JavaScript
 let multiply = function(a, b) {
     return a * b;
 };
@@ -205,7 +205,7 @@ console.log(multiply(3, 4)); // 12
 
 ***5. Функсияи тирӣ (Arrow Function)***
 *Функсияи кӯтоҳшудаи JavaScript.*
-```
+```JavaScript
 const subtract = (a, b) => a - b;
 console.log(subtract(10, 5)); // 5
 ```
@@ -220,7 +220,7 @@ console.log(subtract(10, 5)); // 5
 Зарб *
 Тақсим /
 Боқимонда %*
-```
+```JavaScript
 let a = 10;
 let b = 3;
 
@@ -234,7 +234,7 @@ console.log(a ** b); // 1000 (10^3)
 
 ***2. Операторҳои мантиқӣ (Logical Operators)***
 *!true → false*
-```
+```JavaScript
 console.log(true && false); // false
 console.log(true || false); // true
 console.log(!true); // false
@@ -251,7 +251,7 @@ console.log(!true); // false
 10 >= 10 → true
 5 <= 10 → true
 *
-```
+```JavaScript
 console.log(5 == "5"); // true
 console.log(5 === "5"); // false
 console.log(10 > 5); // true
@@ -266,7 +266,7 @@ x -= 3 → x = x - 3
 x *= 2 → x = x * 2
 x /= 2 → x = x / 2
 *
-```
+```JavaScript
 let x = 10;
 x += 5; // x = x + 5 → 15
 x *= 2; // x = x * 2 → 30
@@ -278,7 +278,7 @@ console.log(x);
 x++ → x = x + 1
 x-- → x = x - 1
 *
-```
+```JavaScript
 let y = 5;
 y++; // 6
 y--; // 5
@@ -288,7 +288,7 @@ console.log(y);
 
 ***6. Оператори тернарӣ (Ternary Operator)***
 *Оператори кӯтоҳшудаи if-else.*
-```
+```JavaScript
 let age = 18;
 let message = age >= 18 ? "Шумо калонсол ҳастед" : "Шумо хурд ҳастед";
 console.log(message);
